@@ -4,3 +4,9 @@
 [submodule "team493"]
 	path = team493
 	url = git@github.com:VvSsNPk/TrainConnections.git
+[submodule "AdversarialSearch"]
+	path = AdversarialSearch
+	url = git@github.com:VvSsNPk/AdversarialSearch.git
+[submodule "team489"]
+	path = team489
+	url = git@github.com:VvSsNPk/AdversarialSearch.git
