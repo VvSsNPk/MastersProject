@@ -1,3 +1,6 @@
 [submodule "ar02usog-1"]
 	path = ar02usog-1
 	url = git@github.com:VvSsNPk/warmup_assignment1.git
+[submodule "team493"]
+	path = team493
+	url = git@github.com:VvSsNPk/TrainConnections.git
