@@ -7,3 +7,6 @@
 [submodule "team489"]
 	path = team489
 	url = git@github.com:VvSsNPk/AdversarialSearch.git
+[submodule "team475"]
+	path = team475
+	url = git@github.com:VvSsNPk/NonoGram.git
