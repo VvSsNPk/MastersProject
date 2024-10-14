@@ -10,3 +10,6 @@
 [submodule "team475"]
 	path = team475
 	url = git@github.com:VvSsNPk/NonoGram.git
+[submodule "team172"]
+	path = team172
+	url = git@github.com:VvSsNPk/XMLData.git
