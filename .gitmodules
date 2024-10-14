@@ -13,3 +13,6 @@
 [submodule "team172"]
 	path = team172
 	url = git@github.com:VvSsNPk/XMLData.git
+[submodule "team854"]
+	path = team854
+	url = git@github.com:VvSsNPk/PDDLPlanner.git
